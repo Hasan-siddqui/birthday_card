@@ -1,9 +1,9 @@
 .notes {
     position: absolute;
     color: #54cfdf;
-    font-size: 30px;
-    top:40px;
-    width:200px;
+    font-size: 52px;
+    top: 100px;
+    width:100%;
     text-align: center;
     font-family: 'Protest Revolution', sans-serif;
     text-transform: uppercase;
@@ -12,12 +12,12 @@
     position: absolute;
     left:5px;
     text-align: center;
-    width:200px;
+    width:100%;
   }
   .notes:before {
     content:"Birthday!";
-    top:40px;
-    color: #d04e4e;
+    top:60px;
+    color: #f6fb7a;
     font-family: 'Protest Riot', sans-serif;
   }
   /* .notes:after {
